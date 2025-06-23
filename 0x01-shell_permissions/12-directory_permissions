@@ -1,2 +1,1 @@
-#!/bin/bash
-touch
+mkdir -m 751 my_dir
